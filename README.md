@@ -10,3 +10,4 @@
 
 ## Medium
 *	Max absolute difference (#1656) - [Python](https://github.com/Liblor/GeeksForGeeks/blob/master/1656_Max_absolute_difference/python/max_diff.py)
+* Largest prime factor (#1679) - [C](https://github.com/Liblor/GeeksForGeeks/blob/master/1679_Largest_prime_factor/c/largest_prime_factor.c)
