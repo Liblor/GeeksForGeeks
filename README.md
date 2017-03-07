@@ -7,7 +7,9 @@
 *	Number of Coins (#364) - [Java](https://github.com/Liblor/GeeksForGeeks/blob/master/364_Number_of_Coins/java/GFG.java)
 * Fibonacci Sum (#842) - [Java](https://github.com/Liblor/GeeksForGeeks/blob/master/842_Fibonacci_Sum/java/GFG.java)
 * Special Factorial Number (#1601) - [Python](https://github.com/Liblor/GeeksForGeeks/blob/master/1601_Special_Factorial_Number/python/special_fac.py)
+* Sort a stack (#700469) - [Python](https://github.com/Liblor/GeeksForGeeks/blob/master/700469_Sort_a_stack/python/sort_a_stack.py)
 
 ## Medium
 *	Max absolute difference (#1656) - [Python](https://github.com/Liblor/GeeksForGeeks/blob/master/1656_Max_absolute_difference/python/max_diff.py)
 * Largest prime factor (#1679) - [C](https://github.com/Liblor/GeeksForGeeks/blob/master/1679_Largest_prime_factor/c/largest_prime_factor.c)
+* Delete keys in a Linked list (#700429) - [Java](https://github.com/Liblor/GeeksForGeeks/blob/master/700429_Delete_keys_in_a_Linked_list/java/GfG.java)
