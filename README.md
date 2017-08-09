@@ -13,3 +13,4 @@
 * [Max absolute difference](http://practice.geeksforgeeks.org/problems/max-absolute-difference/0) - [Python](https://github.com/Liblor/GeeksForGeeks/blob/master/Max_absolute_difference/python/max_diff.py)
 * [Largest prime factor](http://practice.geeksforgeeks.org/problems/largest-prime-factor/0)- [C](https://github.com/Liblor/GeeksForGeeks/blob/master/Largest_prime_factor/c/largest_prime_factor.c)
 * [Delete keys in a Linked list](http://practice.geeksforgeeks.org/problems/delete-keys-in-a-linked-list/1)- [Java](https://github.com/Liblor/GeeksForGeeks/blob/master/Delete_keys_in_a_Linked_list/java/GfG.java)
+* [Probability of Knight](http://practice.geeksforgeeks.org/problems/probability-of-knight/0)- [Java](https://github.com/Liblor/GeeksForGeeks/blob/master/Probability_of_Knight/java/GFG.java)
