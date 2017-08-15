@@ -6,8 +6,8 @@
 ## Easy
 * [Fibonacci Sum](http://practice.geeksforgeeks.org/problems/fibonacci-sum/0) - [Java](https://github.com/Liblor/GeeksForGeeks/blob/master/Fibonacci_Sum/java/GFG.java)
 * [Number of Coins](http://practice.geeksforgeeks.org/problems/number-of-coins/0) - [Java](https://github.com/Liblor/GeeksForGeeks/blob/master/Number_of_Coins/java/GFG.java)
-* [Special Factorial Number](http://practice.geeksforgeeks.org/problems/special-factorial-number/0) - [Python](https://github.com/Liblor/GeeksForGeeks/blob/master/Special_Factorial_Number/python/special_fac.py)
 * [Sort a stack](http://practice.geeksforgeeks.org/problems/sort-a-stack/1) - [Python](https://github.com/Liblor/GeeksForGeeks/blob/master/Sort_a_stack/python/sort_a_stack.py)
+* [Special Factorial Number](http://practice.geeksforgeeks.org/problems/special-factorial-number/0) - [Python](https://github.com/Liblor/GeeksForGeeks/blob/master/Special_Factorial_Number/python/special_fac.py)
 
 ## Medium
 * [Coin Change](http://practice.geeksforgeeks.org/problems/coin-change/0) - [Java](https://github.com/Liblor/GeeksForGeeks/blob/master/Coin_Change/java/GFG.java)
